@@ -1,5 +1,5 @@
 * [首页](/)
-* [css](zh-cn/css?id=丝滑的标题动画)
-** [丝滑的标题动画](zh-cn/css?id=丝滑的标题动画)
+* [css](zh-cn/css?id=跳跃的标题动画)
+** [跳跃的标题动画](zh-cn/css?id=跳跃的标题动画)
 * [javascript](zh-cn/javascript?id=无缝轮播图)
 ** [无缝轮播图](zh-cn/javascript?id=无缝轮播图)
